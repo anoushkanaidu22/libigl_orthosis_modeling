@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
+/Users/anoushkanaidu/Downloads/libigl_orthosis_modeling/src/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule
